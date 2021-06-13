@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Em à!',
     introDesc: `Vườn anh trồng chủ yếu là hoa,
-    Thấy em cười, à hóa là yêu`,
+    Thấy em cười, à hóa là yêu `,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
